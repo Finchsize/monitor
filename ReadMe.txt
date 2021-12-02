@@ -12,3 +12,5 @@ To run the project:
 	Run application
 
 I consider this test was not prepared to check my front-end skills hence I used some random styling from web.
+
+Please check ImplementationArchitecture.jpg for UML diagram.
